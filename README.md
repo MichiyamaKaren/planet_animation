@@ -1,0 +1,1 @@
+This code use `matplotlib.animation` to generate animation of a planet orbiting a star, and also contains scenarios of methods of detecting exoplanets, like transit and radial velocity method. See [this video](https://www.bilibili.com/video/BV1mq4y1a7Qy) for a demo.
